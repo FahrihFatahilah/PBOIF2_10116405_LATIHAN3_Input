@@ -5,9 +5,15 @@
  */
 package pboif2_10116405_latihan3;
 import java.util.Scanner;
+package PBOIF2_10116405_LATIHAN2;
+
 /**
  *
- * @author Agaaam
+ * 
+ * Nama  : Fahrih Fatahilah
+ * Kelas : IF-2
+ * Nim   : 10116405
+ * 
  */
 public class PBOIF2_10116405_LATIHAN3 {
 
